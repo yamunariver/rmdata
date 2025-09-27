@@ -1,4 +1,3 @@
-# rmdata
 
 ## To list top 10 large files
 
