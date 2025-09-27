@@ -1,3 +1,13 @@
+### To remove kaspersky in Linux
+
+```
+sudo apt remove kesl-gui kesl klnagent64 -y 
+```
+
+### To remove other application
+```
+sudo apt remove rhythmbox thunderbird
+```
 
 ### To list top 10 large files
 
